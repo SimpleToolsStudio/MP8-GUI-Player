@@ -4,8 +4,9 @@
  * Copyright (c) 2026 SimpleTools Studio. All rights reserved.
  * 
  * Licensed under the SimpleTools Studio HalfOpenSource License (SHL) v1.0.
- * You may read and study the source code, but commercial use, distribution, 
- * and reverse engineering are strictly prohibited.
+ * You may read and study the open-source GUI source code. Commercial use, 
+ * distribution, and reverse engineering of the closed-source core binary 
+ * (mp8.exe) are strictly prohibited.
  * 
  * See the LICENSE file in the project root for full terms.
  */
