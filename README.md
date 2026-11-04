@@ -40,7 +40,7 @@ This project uses the following open-source libraries. We are grateful to their 
     *   License: CC0 1.0 Universal (Public Domain)
     *   GitHub: [lieff/minimp3](https://github.com/lieff/minimp3)
 *   **tiny-AES-c** - A small and portable AES implementation.
-    *   License: Unlicense (Public Domain)
+    *   License: Unlicense
     *   GitHub: [kokke/tiny-AES-c](https://github.com/kokke/tiny-AES-c)
 *   **miniaudio** - A single-file audio playback and capture library.
     *   License: MIT No Attribution (MIT-0) / Public Domain
