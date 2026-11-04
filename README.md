@@ -22,6 +22,30 @@ gcc player_gui.c -o mp8_gui.exe -O2 -mwindows -lcomctl32 -lole32 -lshell32 -stat
 4. Enter the password and click **Play**.
 *(Note: If the password is incorrect, playback will not start. Please verify your password.)*
 
+## Third-Party Libraries
+
+This project uses the following open-source libraries. We are grateful to their authors.
+
+### Frontend (Open-Source GUI)
+*   **Win32 API** - Provided by the Windows SDK (Microsoft).
+*   **comctl32, ole32, shell32** - Native Windows system libraries.
+
+### Core (Closed-Source Binary `mp8.exe`)
+*   **minimp3** - A minimalistic MP3 decoder.
+    *   License: CC0 1.0 Universal (Public Domain)
+    *   GitHub: [lieff/minimp3](https://github.com/lieff/minimp3)
+*   **tiny-AES-c** - A small and portable AES implementation.
+    *   License: MIT License
+    *   GitHub: [kokke/tiny-AES-c](https://github.com/kokke/tiny-AES-c)
+*   **miniaudio** - A single-file audio playback and capture library.
+    *   License: MIT No Attribution (MIT-0) / Public Domain
+    *   GitHub: [mackron/miniaudio](https://github.com/mackron/miniaudio)
+*   **mp3enc** - A lightweight header-only MP3 encoder (`mp3enc-*.h`).
+    *   License: MIT License
+    *   Source: [ServeurpersoCom/acestep.cpp](https://github.com/ServeurpersoCom/acestep.cpp)
+
+*Note: The specific algorithms and closed-source core logic built upon these libraries remain proprietary. The open-source licenses of these third-party libraries do not extend to our proprietary core.*
+
 ## ⚠️ License
 This project is licensed under the **SimpleTools Studio HalfOpenSource License (SHL) v1.0**. 
 You may view and study the open-source GUI source code (`player_gui.c`). However, **commercial use, distribution, and reverse engineering of the closed-source core binary (`mp8.exe`) are strictly prohibited**. 
