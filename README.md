@@ -22,6 +22,11 @@ gcc player_gui.c -o mp8_gui.exe -O2 -mwindows -lcomctl32 -lole32 -lshell32 -stat
 4. Enter the password and click **Play**.
 *(Note: If the password is incorrect, playback will not start. Please verify your password.)*
 
+## 🛡️ Anti-Reverse Engineering Notice
+*   **Fake Information**: The `info` command in the CLI intentionally reports a fake `"XOR Payload"` and `"XOR Key"` to mislead reverse engineers.
+*   **True Encryption**: The actual audio payload is strictly encrypted using **AES-256-CTR** with a 10,000-iteration KDF. 
+*   **Easter Egg**: Attempting to brute-force or crack the binary may trigger a "psychological attack" (red terminal text and a 3-second sleep) if the validation fails. 
+
 ## Third-Party Libraries
 
 This project uses the following open-source libraries. We are grateful to their authors.
@@ -35,7 +40,7 @@ This project uses the following open-source libraries. We are grateful to their 
     *   License: CC0 1.0 Universal (Public Domain)
     *   GitHub: [lieff/minimp3](https://github.com/lieff/minimp3)
 *   **tiny-AES-c** - A small and portable AES implementation.
-    *   License: MIT License
+    *   License: Unlicense (Public Domain)
     *   GitHub: [kokke/tiny-AES-c](https://github.com/kokke/tiny-AES-c)
 *   **miniaudio** - A single-file audio playback and capture library.
     *   License: MIT No Attribution (MIT-0) / Public Domain
