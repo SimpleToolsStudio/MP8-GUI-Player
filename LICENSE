@@ -2,7 +2,7 @@ SimpleTools Studio HalfOpenSource License (SHL) v1.0
 (Universal Standard Edition - Enhanced & Hardened)
 
 Copyright (c) 2026 SimpleTools Studio.
-Applicable to: MP8! Hardcore Player GUI
+Applicable to: MP8! Hardcore Player GUI / SWAF Project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to read and study the Software for personal, non-commercial purposes only, subject to the following strict conditions:
 
@@ -24,11 +24,14 @@ Any individual or entity wishing to use the Software for commercial purposes mus
 6. TRADEMARK AND ATTRIBUTION
 You may use this license text to license your own projects, provided that you include this license text in full and unmodified. This license does not grant you any rights to use the trademarks, logos, or brand names of the Licensor. The name "SimpleTools Studio HalfOpenSource License" and "SHL" are reserved as the official names of this license text and may not be used to endorse derivative licenses without explicit permission from SimpleTools Studio (the original drafter).
 
-7. DISCLAIMER OF WARRANTY AND LIABILITY
+7. PATENT GRANT
+Subject to the terms and conditions of this License, the Licensor hereby grants to you a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Software, where such license applies only to those patent claims licensable by the Licensor that are necessarily infringed by their contribution(s) alone or by combination of their contribution(s) with the Software to which such contribution(s) was submitted. If you institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Software or a contribution incorporated within the Software constitutes direct or contributory patent infringement, then any patent licenses granted to you under this License for that Software shall terminate as of the date such litigation is filed.
+
+8. DISCLAIMER OF WARRANTY AND LIABILITY
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. THIS INCLUDES, BUT IS NOT LIMITED TO, ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION; HARDWARE DAMAGE; OR PSYCHOLOGICAL DISTRESS CAUSED BY ANY EASTER EGGS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-8. TERMINATION
+9. TERMINATION
 Upon any violation of the terms herein, the Licensor shall immediately terminate your access and usage rights to the Software and require you to destroy all obtained source code and binary files. The Licensor reserves the right to pursue all available legal remedies.
 
-9. GOVERNING LAW AND JURISDICTION
+10. GOVERNING LAW AND JURISDICTION
 This License shall be governed by and construed in accordance with the laws of the People's Republic of China. Any dispute arising out of or relating to this License shall be submitted exclusively to the competent court located at the Licensor's registered address (or the primary residence of the original author). The breaching party waives any objection to such jurisdiction.
